@@ -1,0 +1,9 @@
+
+<view>
+  Faites le test de similarité de vos textes
+</view>
+
+<view>
+  <ant-input placeholder="Saisir un text" allowClear />
+  <ant-button type="primary" onTap="handleTextSimilarityChecker">Vérifier</ant-button>
+</view>
