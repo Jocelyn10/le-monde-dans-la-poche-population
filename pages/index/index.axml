@@ -5,5 +5,5 @@
 
 <view>
   <ant-input placeholder="Saisir un text" allowClear />
-  <ant-button type="primary" onTap="handleTextSimilarityChecker">Vérifier</ant-button>
+  <ant-button type="primary" onTap="handlePopulation">Valider</ant-button>
 </view>
